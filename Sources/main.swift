@@ -30,7 +30,7 @@ server.documentRoot = "./webroot"
 // Configure Server
 configureServer(server)
 
-//server.setResponseFilters([(Filter404(), .high)])
+server.setResponseFilters([(Filter404(), .high)])
 
 
 do {
