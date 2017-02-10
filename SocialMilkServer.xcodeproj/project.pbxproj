@@ -10,6 +10,8 @@
 		8ACE71CB1E4B875100BA2577 /* Handlers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71CA1E4B875100BA2577 /* Handlers.swift */; };
 		8ACE71F61E4B9D6600BA2577 /* Arguments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71F51E4B9D6600BA2577 /* Arguments.swift */; };
 		8ACE71F81E4BCB2F00BA2577 /* Requests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71F71E4BCB2F00BA2577 /* Requests.swift */; };
+		8ACE71FE1E4E578400BA2577 /* ApiVkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71FD1E4E578400BA2577 /* ApiVkManager.swift */; };
+		8ACE72001E4E57C700BA2577 /* ApiProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71FF1E4E57C700BA2577 /* ApiProtocol.swift */; };
 		OBJ_1000 /* e_gmp_err.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_250 /* e_gmp_err.c */; };
 		OBJ_1001 /* e_gost_err.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_251 /* e_gost_err.c */; };
 		OBJ_1002 /* e_idea.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_252 /* e_idea.c */; };
@@ -927,6 +929,8 @@
 		8ACE71CA1E4B875100BA2577 /* Handlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Handlers.swift; sourceTree = "<group>"; };
 		8ACE71F51E4B9D6600BA2577 /* Arguments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arguments.swift; sourceTree = "<group>"; };
 		8ACE71F71E4BCB2F00BA2577 /* Requests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Requests.swift; sourceTree = "<group>"; };
+		8ACE71FD1E4E578400BA2577 /* ApiVkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiVkManager.swift; sourceTree = "<group>"; };
+		8ACE71FF1E4E57C700BA2577 /* ApiProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiProtocol.swift; sourceTree = "<group>"; };
 		OBJ_10 /* Dir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dir.swift; sourceTree = "<group>"; };
 		OBJ_100 /* bn_mul.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = bn_mul.c; sourceTree = "<group>"; };
 		OBJ_101 /* bn_nist.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = bn_nist.c; sourceTree = "<group>"; };
@@ -2547,6 +2551,8 @@
 				8ACE71F51E4B9D6600BA2577 /* Arguments.swift */,
 				8ACE71CA1E4B875100BA2577 /* Handlers.swift */,
 				8ACE71F71E4BCB2F00BA2577 /* Requests.swift */,
+				8ACE71FD1E4E578400BA2577 /* ApiVkManager.swift */,
+				8ACE71FF1E4E57C700BA2577 /* ApiProtocol.swift */,
 			);
 			name = SocialMilkServer;
 			path = Sources;
@@ -2877,9 +2883,11 @@
 				OBJ_753 /* Bytes.swift in Sources */,
 				8ACE71F61E4B9D6600BA2577 /* Arguments.swift in Sources */,
 				OBJ_754 /* Dir.swift in Sources */,
+				8ACE71FE1E4E578400BA2577 /* ApiVkManager.swift in Sources */,
 				OBJ_755 /* File.swift in Sources */,
 				8ACE71F81E4BCB2F00BA2577 /* Requests.swift in Sources */,
 				OBJ_756 /* JSONConvertible.swift in Sources */,
+				8ACE72001E4E57C700BA2577 /* ApiProtocol.swift in Sources */,
 				OBJ_757 /* Log.swift in Sources */,
 				OBJ_758 /* PerfectError.swift in Sources */,
 				OBJ_759 /* PerfectServer.swift in Sources */,
