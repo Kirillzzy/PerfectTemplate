@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8ACE71CB1E4B875100BA2577 /* Handlers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71CA1E4B875100BA2577 /* Handlers.swift */; };
-		8ACE71F41E4B952C00BA2577 /* Routes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71F31E4B952C00BA2577 /* Routes.swift */; };
 		8ACE71F61E4B9D6600BA2577 /* Arguments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71F51E4B9D6600BA2577 /* Arguments.swift */; };
 		8ACE71F81E4BCB2F00BA2577 /* Requests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACE71F71E4BCB2F00BA2577 /* Requests.swift */; };
 		OBJ_1000 /* e_gmp_err.c in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_250 /* e_gmp_err.c */; };
@@ -926,7 +925,6 @@
 
 /* Begin PBXFileReference section */
 		8ACE71CA1E4B875100BA2577 /* Handlers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Handlers.swift; sourceTree = "<group>"; };
-		8ACE71F31E4B952C00BA2577 /* Routes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Routes.swift; sourceTree = "<group>"; };
 		8ACE71F51E4B9D6600BA2577 /* Arguments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arguments.swift; sourceTree = "<group>"; };
 		8ACE71F71E4BCB2F00BA2577 /* Requests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Requests.swift; sourceTree = "<group>"; };
 		OBJ_10 /* Dir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dir.swift; sourceTree = "<group>"; };
@@ -2548,7 +2546,6 @@
 				OBJ_737 /* main.swift */,
 				8ACE71F51E4B9D6600BA2577 /* Arguments.swift */,
 				8ACE71CA1E4B875100BA2577 /* Handlers.swift */,
-				8ACE71F31E4B952C00BA2577 /* Routes.swift */,
 				8ACE71F71E4BCB2F00BA2577 /* Requests.swift */,
 			);
 			name = SocialMilkServer;
@@ -2879,7 +2876,6 @@
 			files = (
 				OBJ_753 /* Bytes.swift in Sources */,
 				8ACE71F61E4B9D6600BA2577 /* Arguments.swift in Sources */,
-				8ACE71F41E4B952C00BA2577 /* Routes.swift in Sources */,
 				OBJ_754 /* Dir.swift in Sources */,
 				OBJ_755 /* File.swift in Sources */,
 				8ACE71F81E4BCB2F00BA2577 /* Requests.swift in Sources */,
