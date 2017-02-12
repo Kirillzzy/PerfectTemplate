@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/SocialMilkServer.d",
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/SocialMilkServer.o",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/master.swiftdeps"
+  },
+  "/perfectbuild/Sources/ApiProtocol.swift": {
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/ApiProtocol.swift.o",
+    "swiftmodule": "/perfectbuild/.build_lin/release/SocialMilkServer.build/ApiProtocol~partial.swiftmodule",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/ApiProtocol.swiftdeps"
+  },
+  "/perfectbuild/Sources/ApiVkManager.swift": {
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/ApiVkManager.swift.o",
+    "swiftmodule": "/perfectbuild/.build_lin/release/SocialMilkServer.build/ApiVkManager~partial.swiftmodule",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/ApiVkManager.swiftdeps"
+  },
+  "/perfectbuild/Sources/Arguments.swift": {
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Arguments.swift.o",
+    "swiftmodule": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Arguments~partial.swiftmodule",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Arguments.swiftdeps"
+  },
+  "/perfectbuild/Sources/Handlers.swift": {
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Handlers.swift.o",
+    "swiftmodule": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Handlers~partial.swiftmodule",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Handlers.swiftdeps"
+  },
+  "/perfectbuild/Sources/main.swift": {
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/main.swift.o",
+    "swiftmodule": "/perfectbuild/.build_lin/release/SocialMilkServer.build/main~partial.swiftmodule",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/main.swiftdeps"
+  },
+  "/perfectbuild/Sources/Requests.swift": {
+    "object": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Requests.swift.o",
+    "swiftmodule": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Requests~partial.swiftmodule",
+    "swift-dependencies": "/perfectbuild/.build_lin/release/SocialMilkServer.build/Requests.swiftdeps"
+  }
+}

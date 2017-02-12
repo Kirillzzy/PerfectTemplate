@@ -1,0 +1,6 @@
+version: "Swift version 3.0.2 (swift-3.0.2-RELEASE)"
+options: "25f4bc490c72ff362376187deb3ec7db"
+build_time: [540208966, 290357000]
+inputs:
+  "/perfectbuild/Packages/PerfectThread-2.0.5/Sources/Threading.swift": [9223372036854775807, 0]
+  "/perfectbuild/Packages/PerfectThread-2.0.5/Sources/ThreadQueue.swift": [9223372036854775807, 0]
